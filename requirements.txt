@@ -42,7 +42,7 @@ nctf-2019-installme==0.2
 numpy==1.16.5
 opencv-python==4.1.2.30
 parsel==1.5.2
-Pillow==6.1.0
+Pillow==6.2.0
 post==2019.4.13
 prettytable==0.7.2
 Protego==0.1.16
