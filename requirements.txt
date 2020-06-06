@@ -15,7 +15,7 @@ crypto==1.4.1
 cryptography==2.8
 cssselect==1.1.0
 cycler==0.10.0
-Django==1.11.26
+Django==1.11.29
 enum34==1.1.6
 fake-useragent==0.1.11
 Flask==1.1.1
